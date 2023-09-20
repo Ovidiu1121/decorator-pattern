@@ -1,0 +1,15 @@
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\bin\Debug\net6.0\Tema90-DecoratorPattern.exe
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\bin\Debug\net6.0\Tema90-DecoratorPattern.deps.json
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\bin\Debug\net6.0\Tema90-DecoratorPattern.runtimeconfig.json
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\bin\Debug\net6.0\Tema90-DecoratorPattern.dll
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\bin\Debug\net6.0\ref\Tema90-DecoratorPattern.dll
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\bin\Debug\net6.0\Tema90-DecoratorPattern.pdb
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\obj\Debug\net6.0\Tema90-DecoratorPattern.csproj.AssemblyReference.cache
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\obj\Debug\net6.0\Tema90-DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\obj\Debug\net6.0\Tema90-DecoratorPattern.AssemblyInfoInputs.cache
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\obj\Debug\net6.0\Tema90-DecoratorPattern.AssemblyInfo.cs
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\obj\Debug\net6.0\Tema90-DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\obj\Debug\net6.0\Tema90-DecoratorPattern.dll
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\obj\Debug\net6.0\ref\Tema90-DecoratorPattern.dll
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\obj\Debug\net6.0\Tema90-DecoratorPattern.pdb
+C:\Data\charp\Teme\Tema90-DecoratorPattern\Tema90-DecoratorPattern\obj\Debug\net6.0\Tema90-DecoratorPattern.genruntimeconfig.cache
